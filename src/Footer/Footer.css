@@ -1,0 +1,27 @@
+.conteiner-footer-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.conteiner-footer{
+    background-color: aquamarine;
+    margin-top: 37%;
+}
+.conteiner-footer-content-text li{
+    list-style: none;
+    color: cornflowerblue;
+    cursor: pointer;
+    text-align: center;
+}
+.conteiner-footer-content-socSetImg img{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+
+}
+.conteiner-footer-content-icon img{
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+
+}

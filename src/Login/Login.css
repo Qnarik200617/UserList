@@ -1,0 +1,24 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-conteiner2 input{
+    background-color: rgb(193, 135, 245);
+    border-color: rgb(43, 226, 147);
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 9px;
+}
+.login-conteiner3 button{
+    background-color: rgb(177, 134, 217);
+    border-color: rgb(43, 226, 147);
+    cursor: pointer;
+    border-radius: 7px;
+    width: 50px;
+    margin-top: 10px;
+}
+.login-conteiner3{
+    text-align: center;
+}

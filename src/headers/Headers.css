@@ -1,0 +1,12 @@
+.headers{
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+
+}
+.ul {
+    display: flex;
+    justify-content: space-around;
+    
+
+}

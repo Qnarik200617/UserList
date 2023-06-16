@@ -1,0 +1,76 @@
+.conteiner{
+    display: flex;
+    justify-content:space-around;
+    position: absolute;
+}
+.conteiner-userlist-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.conteiner-userlist-min-width{
+    min-width: 70%;
+    
+
+}
+.conteiner-userList{
+    display: inline-block;
+    border:1px blueviolet solid;
+    border-radius: 5px;
+    background-color: aqua;
+    min-width: 170px;
+    min-height: 160px;
+  
+
+}
+.conteiner-userList-LastName{
+    display: flex;
+    justify-content: space-evenly;
+    color: blue;
+    
+}
+.conteiner-userList-data{
+    text-align: end;
+}
+.conteiner-userList-data p{
+    margin-right: 10px;
+    color: darkblue;
+    
+}
+.max-width{
+   max-width: 1000px; 
+   margin-top: 13%;
+}
+.contact-userList-modal-card{
+    height: 300px;
+    width: 300px;
+    background-color: hotpink;
+    border: 2px rgb(0, 8, 255) solid;
+    border-radius:20px ;
+    position: relative;
+}
+.button500{
+    color: black;
+    border-color: darkmagenta;
+    background-color:rgb(210, 105, 255);
+    border-radius: 10px;
+}
+.input100{
+    text-align: center;
+}
+.userlist-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.contact-userList-modal{
+   margin-top:10%;
+}
+.contact-userList-modal-card{
+    margin-top: 10%;
+}
+.contact-userList-modal-card  input{
+    margin-top: 10px;
+}

@@ -1,0 +1,28 @@
+.img200{
+    height: 150px;
+    border-radius:20px;
+  
+}
+.img300{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.conteiner-ilon{
+    text-align: center;
+    
+}
+.conteiner-mask{
+    display: flex;
+    justify-content: center;
+    
+}
+.conteiner-h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.conteiner-p p{
+    margin-top: 5px;
+    font-family: 'Lobster', cursive;
+}
